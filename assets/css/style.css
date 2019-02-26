@@ -1,0 +1,30 @@
+html {
+    margin: 10px;
+}
+
+.btn-info {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#button-row {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#search-button {
+    margin-top: 10px;
+}
+  
+.child {
+    display: flex;
+}
+
+.child div {
+    flex-grow: 1;
+    width: 0;
+}
+
+.wrapper {
+    display: inline-block;
+}
